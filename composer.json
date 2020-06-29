@@ -1,0 +1,11 @@
+{
+	"name": "phpassets/js",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Lennart Carstens-Behrens",
+			"email": "lennart.carbe@gmail.com"
+		}
+	],
+	"require": {}
+}
