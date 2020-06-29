@@ -7,5 +7,10 @@
 			"email": "lennart.carbe@gmail.com"
 		}
 	],
-	"require": {}
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"PhpAssets\\Js\\": "src/"
+		}
+	}
 }
