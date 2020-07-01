@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpAssets\Css;
+namespace PhpAssets\Js;
 
 interface MinifierInterface
 {

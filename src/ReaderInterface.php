@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpAssets\Css;
+namespace PhpAssets\Js;
 
 /**
  * Reader for javascript or template files.
